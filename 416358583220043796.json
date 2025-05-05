@@ -3,6 +3,6 @@
   "signature": "NDE2MzU4NTgzMjIwMDQzNzk2",
   "type": "Manual-Nuker",
   "family": "Trojan.Manual-Nuker.2018",
-  "risk_level": "low",
+  "risk_level": "medium",
   "notes": "Nuker - but for demonstration purposes only, low."
 }
